@@ -15,7 +15,7 @@ I'm a Mechatronical Engineer with lots of intrest in robotics, embedded systems 
 </p>
 
 <p>
-    I'm currently developping my skills on firmware engineering, working mainly with freeRTOS.
+    I'm currently developping my skills on firmware engineering, working mainly with freeRTOS, as well as IoT connectivity through webSockets.
 </p>
 
 ### Here are some of my skills
