@@ -11,10 +11,11 @@ I'm a Mechatronical Engineer with lots of intrest in robotics, embedded systems 
 </h2>
 
 <p>
-    I've been the software development captain of the University of São Paulo's autonomous drones team, where I fell in love with code that comes to life through sensors and actuators. There's nothing like developing software/firmware that will fly right in front of you!
+    I've been the head of software development at the University of São Paulo's autonomous drones team, where I fell in love with code that comes to life through sensors and actuators. There's nothing like developing software/firmware that will fly right in front of you! This was also my first contact with open source projects, another growing passion of mine.
 </p>
 
 <p>
+    After achieving first place in two robotics national competitions (Competição Brasileira de Robótica 2021/2022) I started focusing more in open source contributions and exploring new areas.
     I'm currently developping my skills on firmware engineering, working mainly with freeRTOS, as well as IoT connectivity.
 </p>
 
